@@ -24,7 +24,7 @@ pipenv run dev-setup
 ```
 
 ## Settings
-Output directory, format, diagrams settings are specified in `src/constants.py` file.
+Output directory, format, diagrams settings are specified in [constants.py](src/constants.py).
 
 ## Run
 ```shell
@@ -35,3 +35,6 @@ python3 main.py
 
 ## Screenshot
 ![backend diagrams](example/backend.png)
+
+## License
+[MIT](LICENSE)
